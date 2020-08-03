@@ -7,7 +7,7 @@ class Index extends BaseController
 {
     public function index()
     {
-        return '<h1>hello</h1>';
+        return '<h1> hello </h1>';
     }
     
     public function index1()
